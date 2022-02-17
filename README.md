@@ -22,8 +22,8 @@ To get logical '1' message, we have to set value of 52, it will be interpreted a
 
 In the other hand, the '0' message shuold be about 35% high state and 65% low state. Value of proper define is set to 27, because 27/80 equals nearly 35%  
 `#define PWM_VALUE_ZERO 27`  
-![](/img/ws2812b_datasheet_timings2.png)  
-![](/img/ws2812b_datasheet_timings1.png)  
+![ws2812b_datasheet_timings2](https://user-images.githubusercontent.com/64641846/154581395-1a60bd15-9316-49a1-be32-470fcfc55683.png)  
+![ws2812b_datasheet_timings1](https://user-images.githubusercontent.com/64641846/154581408-8d147a29-fb50-44b4-95d6-6ab387e725e2.png)  
 
 **Initialization**
 
