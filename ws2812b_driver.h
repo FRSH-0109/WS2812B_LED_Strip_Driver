@@ -15,7 +15,6 @@
 #include "string.h"
 #include "stdint.h"
 
-#include "math.h"
 
 #define LED_AMOUNT 30
 #define RESET_BYTES_AMOUNT 72
